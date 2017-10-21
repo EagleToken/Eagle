@@ -1,24 +1,35 @@
-# Eagle
-Decentralizing the concept of Autonomous Air Surveillance in Public, Private and Personal Security. Introducing the concept of full-time drone surveillance
+# Welcome to Semux!
 
-Welcome to Eagle Projec
-https://eagletokens.wixsite.com/eagleproject
+https://www.semux.org
 
-What is Semux
+## What is Semux
 
-Decentralization of the concept of Autonomous Air Surveillance in Public, Private and Personal Security. Introducing the concept of full-time drone surveillance
-More info can be found at our Wiki page.
+Semux is an experimental high-performance blockchain platform that powers decentralized application. It's written purely in Java and powered by delegated BFT consensus algorithm.
 
-Specifications
+More info can be found at our [Wiki page](https://github.com/semuxproject/semux/wiki).
 
-Total supply: 32,000,000 SEM
-Symbol: EGL
-Waves Decentralized Exchange
+## Specifications
 
-Get started
+* Total supply: 100,000,000 SEM
+* Block time: 30 seconds
+* Consensus algorithm: Semux BFT
+* Symbol: SEM
 
-Download and install Waves Decentralized Exchange
-https://chrome.google.com/webstore/detail/wavesliteapp/kfmcaklajknfekomaflnhkjjkcjabogm
-This project is under active development
+## Get started
 
-Pull requests, and contributions are welcome. Please see Development Guideline for instructions.
+1. Download and install [Java SE Runtime Environment 8](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html).
+2. Download the [Latest Release](https://github.com/semuxproject/semux/releases) and unpack it to a desired directory.
+3. Run ``semux.bat`` if you're on Windows; or run ``./semux.sh`` if you're on Linux or macOS. Be sure that your system date and time is properly synchronized. To run in command line mode, add ``--cli`` as a parameter.
+4. *(Windows user) You may also need to install Microsoft Visual C++ 2010 Redistributable Package.*
+    - [32-bit](http://www.microsoft.com/en-us/download/details.aspx?id=5555)
+    - [64-bit](https://www.microsoft.com/en-us/download/details.aspx?id=14632)
+
+## Development
+
+This project is under active development and is NOT production ready.
+
+Pull requests, and contributions are welcome. Please see [Development Guideline](https://github.com/semuxproject/semux/wiki/Development-Guideline) for instructions.
+
+## License
+
+[The MIT License](./LICENSE)
